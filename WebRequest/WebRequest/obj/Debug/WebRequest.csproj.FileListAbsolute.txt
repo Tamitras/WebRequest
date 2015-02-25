@@ -34,3 +34,6 @@ C:\Users\Erik\Dropbox\Programming(Erik+Kai)\Projekte\Trash\WebRequest\WebRequest
 C:\Users\Erik\Dropbox\Programming(Erik+Kai)\Projekte\Trash\WebRequest\WebRequest\obj\Debug\WebRequest.csproj.GenerateResource.Cache
 C:\Users\Erik\Dropbox\Programming(Erik+Kai)\Projekte\Trash\WebRequest\WebRequest\bin\Debug\WebRequest.exe
 C:\Users\Erik\Dropbox\Programming(Erik+Kai)\Projekte\Trash\WebRequest\WebRequest\bin\Debug\WebRequest.pdb
+D:\Development\WebRequest\WebRequest\WebRequest\bin\Debug\WebRequest.exe.config
+D:\Development\WebRequest\WebRequest\WebRequest\obj\Debug\WebRequest.exe
+D:\Development\WebRequest\WebRequest\WebRequest\obj\Debug\WebRequest.pdb
